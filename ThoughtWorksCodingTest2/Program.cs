@@ -19,25 +19,7 @@ namespace CarpetCalculation
 
        static void Main(string[] args)
         {
-            /* const int SQ_FT_PER_SQ_YARD = 9;
-             const int INCHES_PER_FOOT = 12;
-             const string BEST_CARPET = "Seller One";
-             const string ECONOMY_CARPET = "Seller Two";
-
-             int roomLengthFeet = 12,
-                 roomLengthInches = 2,
-                 roomWidthFeet = 14,
-                 roomWidthInches = 7;
-
-             double roomLength,
-                     roomWidth,
-                     carpetPrice,
-                     numOfSquareFeet,
-                     numOfSquareYards,
-                     totalCost;
-
-            string  answer;
-      */
+    
      
            instructions.Instructions();
 
