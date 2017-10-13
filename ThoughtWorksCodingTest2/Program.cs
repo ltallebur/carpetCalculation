@@ -2,7 +2,7 @@
  * CarpetCalculator.cs Author Ru Bell
  * Calculates teh otal cost of carpert, 
  * given room dimensions
- * in square frr and inches and teh carpet
+ * in square feet and inches and the carpet
  * price in price per square yard
  */
 
