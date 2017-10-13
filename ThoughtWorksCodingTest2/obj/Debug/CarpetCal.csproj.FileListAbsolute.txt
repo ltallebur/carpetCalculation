@@ -1,0 +1,13 @@
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\obj\Debug\ThoughtWorksCodingTest2.exe
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.exe.config
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.exe
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.pdb
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\obj\Debug\ThoughtWorksCodingTest2.pdb
+C:\Samples\ThoughtWorksCodingTest2\ThoughtWorksCodingTest2\obj\Debug\CarpetCal.csprojResolveAssemblyReference.cache
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.exe.config
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\obj\Debug\ThoughtWorksCodingTest2.exe
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\obj\Debug\ThoughtWorksCodingTest2.pdb
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.exe
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\bin\Debug\ThoughtWorksCodingTest2.pdb
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\obj\Debug\CarpetCal.csprojResolveAssemblyReference.cache
+C:\Users\rubellatl\Dropbox\Samples V2\SampleMethodCalling\ThoughtWorksCodingTest2\obj\Debug\CarpetCal.csproj.CoreCompileInputs.cache
